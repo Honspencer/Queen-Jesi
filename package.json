@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sl-Yasia/Queen-Jesi.git"
+    "url": "git+https://github.com/Honspencer/Queen-Jesi.git"
   },
   "keywords": [
     "whatsapp",
@@ -21,9 +21,9 @@
   "developer": "YR Tech",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Sl-Yasia/Queen-Jesi/issues"
+    "url": "https://github.com/Honspencer/Queen-Jesi/issues"
   },
-  "homepage": "https://github.com/Sl-Yasia/Queen-Jesi#readme",
+  "homepage": "https://github.com/Honspencer/Queen-Jesi#readme",
   "dependencies": {
     "queenjesi-npm": "^1.1.8"
   }
